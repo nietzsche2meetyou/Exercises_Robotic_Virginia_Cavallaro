@@ -1,0 +1,5 @@
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/lib/forward_kinematics/forward_kinematic_client
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/lib/forward_kinematics/forward_kinematic_server
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/lib/pkgconfig/forward_kinematics.pc
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/share/forward_kinematics/cmake/forward_kinematicsConfig-version.cmake
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/share/forward_kinematics/cmake/forward_kinematicsConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/.private/tf_parser
+
+Name: tf_parser
+Description: Description of tf_parser
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/.private/tf_parser/lib 
+Requires: 

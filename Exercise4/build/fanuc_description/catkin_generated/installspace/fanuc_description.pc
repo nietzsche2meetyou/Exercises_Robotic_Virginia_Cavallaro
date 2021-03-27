@@ -1,0 +1,8 @@
+prefix=/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise4/install
+
+Name: fanuc_description
+Description: Description of fanuc_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise4/install/lib 
+Requires: xacro

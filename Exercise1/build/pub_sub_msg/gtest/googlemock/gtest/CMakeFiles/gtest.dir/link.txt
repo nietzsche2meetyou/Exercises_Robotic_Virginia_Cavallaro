@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise1/build/pub_sub_msg/gtest/googlemock/gtest/src -Wl,-rpath,/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise1/build/pub_sub_msg/gtest/googlemock/gtest/src -lpthread 

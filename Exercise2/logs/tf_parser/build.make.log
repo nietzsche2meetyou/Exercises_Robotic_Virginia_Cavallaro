@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target tf_parser[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/tf_parser.dir/src/tf_parser.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/.private/tf_parser/lib/tf_parser/tf_parser[0m
+[100%] Built target tf_parser

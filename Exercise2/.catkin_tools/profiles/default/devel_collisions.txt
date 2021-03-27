@@ -1,0 +1,1 @@
+/home/gianluca/Desktop/Università/Robotica/project_delivery/Robotic_Exercises/Exercise2/devel/./cmake.lock 26

@@ -1,0 +1,2 @@
+set(kinematics_action_msgs_MESSAGE_FILES "msg/GetInverseKinematicsSolutionAction.msg;msg/GetInverseKinematicsSolutionActionGoal.msg;msg/GetInverseKinematicsSolutionActionResult.msg;msg/GetInverseKinematicsSolutionActionFeedback.msg;msg/GetInverseKinematicsSolutionGoal.msg;msg/GetInverseKinematicsSolutionResult.msg;msg/GetInverseKinematicsSolutionFeedback.msg")
+set(kinematics_action_msgs_SERVICE_FILES "")

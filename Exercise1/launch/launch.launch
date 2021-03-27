@@ -1,0 +1,5 @@
+<launch>
+<node name = "my_sub" pkg = "pub_sub" type = "sub" output= "screen"> </node>
+<node name = "my_pub" pkg = "pub_sub" type = "pub" output = "screen"> </node>
+
+</launch>

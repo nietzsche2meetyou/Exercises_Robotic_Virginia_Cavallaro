@@ -1,0 +1,8 @@
+prefix=/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise1/install
+
+Name: pub_sub
+Description: Description of pub_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise1/install/lib 
+Requires: 

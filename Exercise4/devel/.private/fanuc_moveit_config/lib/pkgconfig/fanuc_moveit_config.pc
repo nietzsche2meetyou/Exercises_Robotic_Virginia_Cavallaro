@@ -1,0 +1,8 @@
+prefix=/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise4/devel/.private/fanuc_moveit_config
+
+Name: fanuc_moveit_config
+Description: Description of fanuc_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise4/devel/.private/fanuc_moveit_config/lib 
+Requires: 

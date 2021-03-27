@@ -1,0 +1,8 @@
+prefix=/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/install
+
+Name: forward_kinematic_srv
+Description: Description of forward_kinematic_srv
+Version: 0.0.0
+Cflags: -I/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/install/include
+Libs: -L/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/install/lib 
+Requires: message_runtime

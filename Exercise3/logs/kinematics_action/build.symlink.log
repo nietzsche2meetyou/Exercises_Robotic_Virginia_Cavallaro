@@ -1,0 +1,6 @@
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/lib/libkinematics_action_library.so
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/lib/kinematics_action/kinematics_action_client
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/lib/kinematics_action/kinematics_action_server
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/lib/pkgconfig/kinematics_action.pc
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/share/kinematics_action/cmake/kinematics_actionConfig.cmake
+Symlinking /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/share/kinematics_action/cmake/kinematics_actionConfig-version.cmake

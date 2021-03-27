@@ -1,0 +1,8 @@
+prefix=/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise4/install
+
+Name: fanuc_move_group_interface
+Description: Description of fanuc_move_group_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise4/install/lib -linteractivity_utils
+Requires: moveit_core moveit_visual_tools moveit_ros_planning_interface interactive_markers

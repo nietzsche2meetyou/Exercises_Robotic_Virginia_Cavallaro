@@ -1,0 +1,5 @@
+tf_parser
+/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/.private/tf_parser/lib/tf_parser/tf_parser /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/lib/tf_parser/tf_parser
+/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/.private/tf_parser/lib/pkgconfig/tf_parser.pc /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/lib/pkgconfig/tf_parser.pc
+/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/.private/tf_parser/share/tf_parser/cmake/tf_parserConfig.cmake /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/share/tf_parser/cmake/tf_parserConfig.cmake
+/home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/.private/tf_parser/share/tf_parser/cmake/tf_parserConfig-version.cmake /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise2/devel/share/tf_parser/cmake/tf_parserConfig-version.cmake

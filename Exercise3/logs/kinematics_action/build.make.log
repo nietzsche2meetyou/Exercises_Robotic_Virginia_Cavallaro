@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target kinematics_action_library[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/kinematics_action_library.dir/src/inverse_kinematics_action.cpp.o[0m
+[35m[1mScanning dependencies of target kinematics_action_client[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/kinematics_action_client.dir/src/ik_action_client.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/.private/kinematics_action/lib/libkinematics_action_library.so[0m
+[ 50%] Built target kinematics_action_library
+[35m[1mScanning dependencies of target kinematics_action_server[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/kinematics_action_server.dir/src/ik_action_server.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/.private/kinematics_action/lib/kinematics_action/kinematics_action_client[0m
+[ 83%] Built target kinematics_action_client
+[100%] [32m[1mLinking CXX executable /home/mivia/Desktop/Exercises_Robotic_Virginia_Cavallaro/Exercise3/devel/.private/kinematics_action/lib/kinematics_action/kinematics_action_server[0m
+[100%] Built target kinematics_action_server
